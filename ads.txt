@@ -7,3 +7,4 @@ rhythmone.com, 1117218481, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 1117218481, RESELLER
 rubiconproject.com, 20474, RESELLER, 0bfd66d529a55807
 appnexus.com, 11995, RESELLER, f5ab79cb980f11d1
+google.com, pub-7990736697930262, DIRECT, f08c47fec0942fa0
